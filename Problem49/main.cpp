@@ -1,3 +1,6 @@
+// An initial problem solution, meant to test out leetcode difficulty.
+// Problem was to find all words that could be anagrams in a list of strings, then return them as a list of lists of strings.
+
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
